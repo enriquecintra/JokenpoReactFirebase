@@ -90,8 +90,8 @@ npm run dev
 
 ```
 ├── public/
+│     └── screenshot.png
 ├── src/
-│   ├── assets/         # SVGs e imagens
 │   ├── components/     # Componentes reaproveitáveis
 │   │   └── MoveCard.tsx
 │   ├── pages/          # Páginas de rota
@@ -105,6 +105,12 @@ npm run dev
 │   └── App.tsx         # Definições de rotas
 └
 ```
+
+## 🔗 Demonstração
+
+Confira a aplicação online:
+
+👉 [https://jokenpo-react-firebase.vercel.app/](https://jokenpo-react-firebase.vercel.app/)
 
 ---
 
